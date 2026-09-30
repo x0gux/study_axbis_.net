@@ -26,3 +26,4 @@ C:\Users\AXBIS\Desktop\axbis\study_axbis_.net\obj\Debug\net10.0\refint\study_axb
 C:\Users\AXBIS\Desktop\axbis\study_axbis_.net\obj\Debug\net10.0\study_axbis_.net.pdb
 C:\Users\AXBIS\Desktop\axbis\study_axbis_.net\obj\Debug\net10.0\study_axbis_.net.genruntimeconfig.cache
 C:\Users\AXBIS\Desktop\axbis\study_axbis_.net\obj\Debug\net10.0\ref\study_axbis_.net.dll
+C:\Users\AXBIS\Desktop\axbis\study_axbis_.net\obj\Debug\net10.0\study_axbis_.net.sourcelink.json
